@@ -12,13 +12,6 @@ The repository is organized into the following libraries:
 2. OpenCV: OpenCV is an open-source library for computer vision and image processing. It offers a rich set of functions and algorithms to handle tasks like image manipulation, object detection, and video analysis. With support for multiple programming languages, OpenCV is widely used in various domains such as robotics, augmented reality, and medical imaging. It serves as a valuable tool for developers working on computer vision applications.
    - [Folder](https://github.com/Virat-Srivastava/Computer-Vision/OpenCV).
 
-## Getting Started
-
-To get a local copy of this repository, you can use the following Git command:
-
-```bash
-git clone https://github.com/Virat-Srivastava/Computer-Vision.git
-```
 ## Usage
 
 To use the code in this repository, first clone it to your local machine:
